@@ -1,0 +1,1 @@
+print("Hola Pensamiento Computacional")
