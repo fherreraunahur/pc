@@ -1,1 +1,1 @@
-print("Hola Pensamiento Computacional")
+print("Hola bienvenidos a Pensamiento Computacional")
